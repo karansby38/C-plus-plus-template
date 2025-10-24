@@ -1,0 +1,20 @@
+#include <bits/stdc++.h>
+using namespace std;
+#define pb push_back
+using ll=long long;
+
+//ceil[a/b]=(a+b-1)/b;
+//to find prime i=2,i*i<=n
+
+void solve(){
+
+
+
+}
+int main() {
+     // your code goes here
+     int t;
+     cin>>t;
+     while(t--) solve();
+
+}
