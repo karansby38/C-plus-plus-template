@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 #define pb push_back
+#define fr(i, a, b, k) for (ll i = (a); i < (b); i += (k))
 using ll=long long;
 
 //ceil[a/b]=(a+b-1)/b;
